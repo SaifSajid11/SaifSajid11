@@ -1,11 +1,10 @@
 # SaifSajid
-<h1 align="center">Hi 👋, I'm Saif Sajid Mithawala</h1>
-<h3 align="center">UK-Based Data Analyst | Visualizing Data, Delivering Impact</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
-- 👨‍💻 All of my projects are available at [https://saifsajid11.github.io/Portfolio/](https://saifsajid11.github.io/Portfolio/)
+<h1 align="center">Hi 👋, I'm Saif Sajid Mithawala</h1>
 
 - 💬 Ask me about **Cleaning,analysing and visualinzing data**
+
+- 👨‍💻 All of my projects are available at [https://saifsajid11.github.io/Portfolio/](https://saifsajid11.github.io/Portfolio/)
 
 - 📫 How to reach me **mithawalasaif@gmail.com**
 
